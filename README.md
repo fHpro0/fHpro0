@@ -1,4 +1,4 @@
-Hi 👋 My name is Frederick Hörner
+Hi 👋 My name is Frederick Hörner ([Freddo](https://freddo.dev))
 ========================================================================================================================================
 
 Full Stack Developer
@@ -16,6 +16,7 @@ My journey as a Full-Stack Developer has been marked by continuous learning, ada
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on New CMS and Golang Projects
 * ⚡  I´m not only a Nerd who is sitting inside, I am also a Car Lover and leaves my Dark Code Room
+
 
 ### Skills  
 
