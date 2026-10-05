@@ -5,7 +5,7 @@
 I modernise grown PHP/WordPress systems without stopping production – hardened, tested, with AI tooling.
 In my free time I'm building a native terminal in Rust.
 
-[freddo.dev](https://freddo.dev) · [LinkedIn](https://www.linkedin.com/in/frederick-hörner-8942a82a8/)
+[freddo.dev](https://freddo.dev)
 
 ---
 
@@ -14,7 +14,7 @@ In my free time I'm building a native terminal in Rust.
 <a href="https://github.com/fHpro0/hefyn">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/overview-dark.png">
-    <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/overview.png" alt="hefyn: session tree, command blocks and a split screen" width="100%">
+    <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/overview.png" alt="hefyn: session tree, command blocks and a split screen" width="440" align="right">
   </picture>
 </a>
 
@@ -25,6 +25,8 @@ first by regex rules, an entropy detector and a local GLiNER model. A Keychain v
 secrets without seeing them. *Work in progress.*
 
 `Rust · GPUI · alacritty_terminal · MCP (rmcp) · ONNX/GLiNER`
+
+<br clear="right">
 
 ---
 
@@ -98,11 +100,11 @@ rewrites remote metadata so pages stop blocking on third-party requests. PHP.
 [**freddo.dev**](https://github.com/fHpro0/freddo.dev) — source of my site.
 Astro, TypeScript, SCSS, no JavaScript shipped by default.
 
-**MANQR – cross-platform mobile app** *(private repo)* — Mobile app with a real-time 3D editor and its own API backend: auth via better-auth, data model in PostgreSQL with Drizzle ORM, validation with Zod. Developed for iOS and Android; the Android version has not been published yet. In development.
+[**MANQR**](https://manqr.me) **– cross-platform mobile app** *(private repo, [manqr.me](https://manqr.me))* — Mobile app with a real-time 3D editor and its own API backend: auth via better-auth, data model in PostgreSQL with Drizzle ORM, validation with Zod. Developed for iOS and Android; the Android version has not been published yet. In development.
 
 `Vue 3 · Capacitor · Three.js · Elysia · Drizzle ORM · better-auth · PostgreSQL · Zod`
 
 ---
 
-[freddo.dev](https://freddo.dev) · [LinkedIn](https://www.linkedin.com/in/frederick-hörner-8942a82a8/)
+[freddo.dev](https://freddo.dev)
 
