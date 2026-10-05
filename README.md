@@ -34,7 +34,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://manqr.me">
-        <img src="assets/mani.png" alt="Mani, the MANQR mascot" width="100%">
+        <img src="assets/manqr-icon.png" alt="MANQR app icon with Mani" width="100%">
       </a>
       <h3><a href="https://manqr.me">MANQR</a> <sub><img alt="App Store" src="https://img.shields.io/badge/iPhone_%26_iPad-live-000000?style=flat-square&logo=apple"></sub></h3>
       Design your nails in 3D before the salon: try colors, patterns and charms, then share the look.
