@@ -19,13 +19,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/fHpro0/hefyn">
+      <a href="https://github.com/fHpro0/warden">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/overview-dark.png">
-          <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/overview.png" alt="hefyn terminal" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/warden/main/docs/screenshots/overview-dark.png">
+          <img src="https://raw.githubusercontent.com/fHpro0/warden/main/docs/screenshots/overview.png" alt="warden terminal" width="100%">
         </picture>
       </a>
-      <h3><a href="https://github.com/fHpro0/hefyn">hefyn</a> <sub><img alt="work in progress" src="https://img.shields.io/badge/WIP-yellow?style=flat-square"></sub></h3>
+      <h3><a href="https://github.com/fHpro0/warden">warden</a> <sub><img alt="work in progress" src="https://img.shields.io/badge/WIP-yellow?style=flat-square"></sub></h3>
       A native macOS terminal in pure Rust with a built-in MCP gateway. AI agents can work in your
       sessions, and every secret is redacted before they see it.<br><br>
       <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
@@ -49,13 +49,19 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="34%" valign="top">
+      <b>🥗 <a href="https://github.com/fHpro0/mealprep-studio">mealprep-studio</a></b><br>
+      Your own meal-kit service: Claude plans the week, you pick dishes on your phone, priced at the supermarkets near you.<br>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img alt="Claude" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
+    </td>
+    <td width="33%" valign="top">
       <b>📦 <a href="https://github.com/fHpro0/rmm">rmm</a></b><br>
       WordPress plugin that strips or rewrites remote metadata, so pages stop blocking on third-party requests.<br>
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
       <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b>🌐 <a href="https://github.com/fHpro0/freddo.dev">freddo.dev</a></b><br>
       Source of my personal site. No JavaScript shipped by default.<br>
       <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white">
