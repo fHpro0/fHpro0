@@ -16,6 +16,18 @@
 
 ## 🚀 What I'm building
 
+<a href="https://github.com/fHpro0/mealprep-studio">
+  <img src="https://raw.githubusercontent.com/fHpro0/mealprep-studio/main/docs/img/banner.webp" alt="Meal Prep Studio: pick your week like a meal kit, planned by Claude" width="100%">
+</a>
+
+### 🥗 [Meal Prep Studio](https://github.com/fHpro0/mealprep-studio) <sub><img alt="new" src="https://img.shields.io/badge/new-8cc63f?style=flat-square"></sub>
+
+Your own meal-kit service for the food you cook at home. Claude suggests dishes, you pick them on your
+phone, and you get the recipes, a shopping list priced at the supermarkets near you and a prep-day timeline.<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
+<img alt="No dependencies" src="https://img.shields.io/badge/dependencies-none-0f3d2e?style=flat-square">
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -49,19 +61,13 @@
 
 <table>
   <tr>
-    <td width="34%" valign="top">
-      <b>🥗 <a href="https://github.com/fHpro0/mealprep-studio">mealprep-studio</a></b><br>
-      Your own meal-kit service: Claude plans the week, you pick dishes on your phone, priced at the supermarkets near you.<br>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img alt="Claude" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>📦 <a href="https://github.com/fHpro0/rmm">rmm</a></b><br>
       WordPress plugin that strips or rewrites remote metadata, so pages stop blocking on third-party requests.<br>
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
       <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <b>🌐 <a href="https://github.com/fHpro0/freddo.dev">freddo.dev</a></b><br>
       Source of my personal site. No JavaScript shipped by default.<br>
       <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white">
