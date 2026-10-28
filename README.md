@@ -30,7 +30,7 @@ phone, and you get the recipes, a shopping list priced at the supermarkets near 
 
 <a href="https://github.com/fHpro0/hefyn">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/screenshots/hero-dark.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/readme/hero-dark.gif">
     <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/readme/hero-light.gif" alt="hefyn: one sandbox per person, a gateway that adds the model key, and an egress allowlist" width="100%">
   </picture>
 </a>
