@@ -31,13 +31,13 @@ phone, and you get the recipes, a shopping list priced at the supermarkets near 
 <a href="https://github.com/fHpro0/hefyn">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/readme/hero-dark.gif">
-    <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/readme/hero-light.gif" alt="hefyn: one login for the team, shared workflows, every agent" width="100%">
+    <img src="https://raw.githubusercontent.com/fHpro0/hefyn/main/docs/readme/hero-light.gif" alt="hefyn: one login, private and team workflows, one team account per agent" width="100%">
   </picture>
 </a>
 
 ### 🔏 [hefyn](https://github.com/fHpro0/hefyn) <sub><img alt="work in progress" src="https://img.shields.io/badge/WIP-yellow?style=flat-square"></sub> <sub><img alt="proof of concept" src="https://img.shields.io/badge/proof_of_concept-orange?style=flat-square"></sub>
 
-One login for a team's coding agents (Claude Code, Codex, OpenCode, Pi) in the browser, and workflows built once and shared with everyone. Self-hosted: each person gets their own sandbox, and model keys never enter it. Open core under the AGPL-3.0.<br>
+One login for a team's coding agents (Claude Code, Codex, OpenCode, Pi) in the browser: one team account per agent, workflows kept private or shared with everyone, and no model picking. Self-hosted, with a sandbox per person. Open core under the AGPL-3.0.<br>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
